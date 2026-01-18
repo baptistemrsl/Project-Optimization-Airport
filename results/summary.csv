@@ -1,0 +1,4 @@
+method,avg_turnaround,delayed_flights,total_delay,avg_delay
+FCFS,74.4200,15,248.0000,4.9600
+MILP,1179.8600,47,57154.0001,1143.0800
+GA,83.4600,20,625.0000,12.5000
